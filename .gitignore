@@ -1,0 +1,21 @@
+
+# Local SQLite databases
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+
+# Python cache and testing files
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Visual Studio temporary files
+.vs/
+
+# Local environment settings
+.env
